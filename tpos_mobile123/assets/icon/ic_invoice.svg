@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.293" height="18.685" viewBox="0 0 19.293 18.685">
+<!--    <defs><style>.a{fill:#fff;}.b{fill:#c1e2b9;}</style></defs>-->
+    <g transform="translate(-614.652 -568.652)"><g transform="translate(614.652 568.652)">
+        <g transform="translate(0 0)">
+            <path class="a" d="M631.878,568.652H617.408a2.53,2.53,0,0,0-2.756,2.19v15.948a.624.624,0,0,0,.689.547h13.78a.624.624,0,0,0,.689-.547V574.126l2.756-2.737Z" transform="translate(-614.652 -568.652)" fill="#fff"/>
+        </g><g transform="translate(15.158 0)">
+        <path class="b" d="M947.849,569a1.99,1.99,0,0,0-1.13-.345,2.064,2.064,0,0,0-2.067,2.067v4.823H948.1a.689.689,0,0,0,.689-.689v-4.134A2.027,2.027,0,0,0,947.849,569Z" transform="translate(-944.652 -568.652)" fill="#c1e2b9"/>
+    </g></g><g transform="translate(617.972 575.396)"><g transform="translate(0 0)">
+        <path class="b" d="M742.093,840.383h-6.5a.813.813,0,1,0,0,1.626h6.5a.813.813,0,0,0,0-1.626Z" transform="translate(-734.775 -837.39)" fill="#c1e2b9"/>
+        <path class="b" d="M742.093,840.383h-6.5a.813.813,0,1,0,0,1.626h6.5a.813.813,0,0,0,0-1.626Z" transform="translate(-734.775 -840.383)" fill="#c1e2b9"/>
+        <path class="b" d="M742.093,900.383h-6.5a.813.813,0,0,0,0,1.627h6.5a.813.813,0,0,0,0-1.627Z" transform="translate(-734.775 -894.466)" fill="#c1e2b9"/>
+    </g>
+    </g>
+    </g>
+</svg>

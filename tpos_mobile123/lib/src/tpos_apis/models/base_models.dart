@@ -1,0 +1,3 @@
+class BaseModels<T> {
+
+}

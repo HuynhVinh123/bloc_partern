@@ -1,0 +1,1 @@
+class TPosApiServerException implements Exception {}

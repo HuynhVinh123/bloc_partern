@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.293" height="18.685" viewBox="0 0 19.293 18.685">
+  <g id="invoice-multicolor" transform="translate(-614.652 -568.652)">
+    <g id="Group_4999" data-name="Group 4999" transform="translate(614.652 568.652)">
+      <g id="Group_4996" data-name="Group 4996" transform="translate(0 0)">
+        <g id="Group_4995" data-name="Group 4995">
+          <path id="Path_1684" data-name="Path 1684" d="M631.878,568.652H617.408a2.53,2.53,0,0,0-2.756,2.19v15.948a.624.624,0,0,0,.689.547h13.78a.624.624,0,0,0,.689-.547V574.126l2.756-2.737Z" transform="translate(-614.652 -568.652)" fill="#2eb2e8"/>
+        </g>
+      </g>
+      <g id="Group_4998" data-name="Group 4998" transform="translate(15.158 0)">
+        <g id="Group_4997" data-name="Group 4997">
+          <path id="Path_1685" data-name="Path 1685" d="M947.849,569a1.99,1.99,0,0,0-1.13-.345,2.064,2.064,0,0,0-2.067,2.067v4.823H948.1a.689.689,0,0,0,.689-.689v-4.134A2.027,2.027,0,0,0,947.849,569Z" transform="translate(-944.652 -568.652)" fill="#bde1ef"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5001" data-name="Group 5001" transform="translate(617.972 575.396)">
+      <g id="Group_5000" data-name="Group 5000" transform="translate(0 0)">
+        <path id="Path_1686" data-name="Path 1686" d="M742.093,840.383h-6.5a.813.813,0,1,0,0,1.626h6.5a.813.813,0,0,0,0-1.626Z" transform="translate(-734.775 -837.39)" fill="#bde1ef"/>
+        <path id="Path_1688" data-name="Path 1688" d="M742.093,840.383h-6.5a.813.813,0,1,0,0,1.626h6.5a.813.813,0,0,0,0-1.626Z" transform="translate(-734.775 -840.383)" fill="#bde1ef"/>
+        <path id="Path_1687" data-name="Path 1687" d="M742.093,900.383h-6.5a.813.813,0,0,0,0,1.627h6.5a.813.813,0,0,0,0-1.627Z" transform="translate(-734.775 -894.466)" fill="#bde1ef"/>
+      </g>
+    </g>
+  </g>
+</svg>
