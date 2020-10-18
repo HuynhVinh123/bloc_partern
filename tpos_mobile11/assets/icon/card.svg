@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.183"
+    height="14.12" viewBox="0 0 21.183 14.12">
+    <defs>
+<!--        <style>-->
+<!--            .a{fill:url(#a);}.b{fill:url(#b);}.c{fill:#b3e4fc;}.d{fill:#0f79d6;}.e{fill:#fff;opacity:0.125;mix-blend-mode:soft-light;isolation:isolate;}-->
+<!--        </style>-->
+        <linearGradient id="a" x1="-0.002" y1="0.504" x2="0.999" y2="0.495"
+            gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#80d4fa" />
+            <stop offset="1" stop-color="#208ff0" />
+        </linearGradient>
+        <linearGradient id="b" x1="-0.001" y1="0.513" x2="0.998" y2="0.489" xlink:href="#a" />
+    </defs>
+    <g transform="translate(-9.848 -11.427)">
+        <g transform="translate(9.848 11.427)" >
+            <path class="a"
+                d="M30.589,17.928h-20.3a.442.442,0,0,0-.441.441v6.178a2.206,2.206,0,0,0,2.206,2.206h16.77a2.206,2.206,0,0,0,2.206-2.206V18.369A.442.442,0,0,0,30.589,17.928Z"
+                transform="translate(-9.848 -12.633)" fill="url(#a)"/>
+            <path class="b"
+                d="M10.289,14.958h20.3a.442.442,0,0,0,.441-.441v-.883a2.206,2.206,0,0,0-2.2-2.206H12.054a2.206,2.206,0,0,0-2.206,2.206v.883A.442.442,0,0,0,10.289,14.958Z"
+                transform="translate(-9.848 -11.427)" fill="url(#b)" />
+            <g transform="translate(2.648 8.825)">
+                <path class="c"
+                    d="M17.07,23.146H13.54a.441.441,0,1,1,0-.883h3.53a.441.441,0,1,1,0,.883Z"
+                    transform="translate(-13.099 -22.263)" fill="#b3e4fc"/>
+                <path class="c"
+                    d="M19.718,25.313H13.54a.441.441,0,1,1,0-.883h6.178a.441.441,0,1,1,0,.883Z"
+                    transform="translate(-13.099 -22.665)" fill="#b3e4fc"/>
+            </g>
+            <path class="c"
+                d="M28.748,22.944a.871.871,0,0,1,.3-.652.442.442,0,0,0,.033-.623l-.033-.033a1.765,1.765,0,1,0,0,2.617.442.442,0,0,0,.033-.623l-.033-.033A.871.871,0,0,1,28.748,22.944Z"
+                transform="translate(-12.863 -13.237)" fill="#b3e4fc"/>
+            <g transform="translate(0 2.648)">
+                <circle class="d" cx="1.765" cy="1.765" r="1.765"
+                    transform="translate(15.003 5.295)" fill="#0f79d6"/>
+                <rect class="d" width="21.18" height="3.53" fill="#0f79d6"/>
+            </g>
+        </g>
+        <path class="e"
+            d="M27.409,11.43C23.011,21.439,14.191,22.148,9.85,21.822V13.637a2.2,2.2,0,0,1,2.207-2.207Z"
+            transform="translate(0 -0.001)" fill="#fff" opacity="0.125"/>
+    </g>
+</svg>

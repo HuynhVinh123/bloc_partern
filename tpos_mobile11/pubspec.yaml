@@ -1,0 +1,258 @@
+name: tpos_mobile
+description: Phiên bản mobile của phần mềm bán hàng TPos.
+
+version: 1.7.5+129
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.0
+  http: ^0.12.2 #Request, Get, post, put, delete
+  shared_preferences: ^0.5.6
+  url_launcher: ^5.4.11
+  flutter_facebook_login: ^3.0.0 #Login facebook
+  scoped_model: ^1.0.1
+  provider: ^4.3.2+2
+  intl: any # Format datetime, number
+  w3c_event_source: ^1.3.2 # Capture server send event
+  diacritic: ^0.1.1 #remove mark
+  test: ^1.5.1+1
+  font_awesome_flutter: ^8.5.0
+  datetime_picker_formfield: ^1.0.0
+  timeago: ^2.0.22
+  logging: ^0.11.3+2
+  logger: ^0.9.4
+  sentry: ^3.0.0+1
+  rxdart: ^0.24.1
+  #rx_command: ^5.2.1 | Remove from version 1.8.0
+  screen: ^0.0.5
+  package_info: ^0.4.0+13
+  barcode_scan: ^3.0.1
+  image_picker: ^0.6.2+3
+  device_info: ^0.4.1+4
+  cached_network_image: ^2.0.0-rc.1
+  badges: ^1.1.0
+  firebase_remote_config: ^0.3.0+3
+  firebase_crashlytics: ^0.1.2+3
+  firebase_analytics: ^5.0.9
+  firebase_messaging: ^6.0.12
+  webview_flutter: ^0.3.24
+  signalr_client: ^0.1.6
+  hex: ^0.1.2
+  pdf: ^1.3.25
+  printing: ^3.3.1
+  random_color: ^1.0.3
+  store_redirect: ^1.0.2
+  date_range_picker: ^1.0.6
+  flutter_masked_text: ^0.8.0
+  async: ^2.4.1
+  flutter_spinkit: ^4.1.0
+  sticky_headers: ^0.1.8+1 #Làm header của một list luôn "dính" trên màn hình
+  fl_chart: ^0.11.1 #Biểu đồ bánh(Pie Chart) và đường (Line Chart)
+  auto_size_text: ^2.1.0 #Tự điều chỉnh size chữ nhỏ lại khi không đủ không gianp
+  flutter_charts: ^0.1.3 #Biểu đồ cột
+  flutter_screenutil: ^0.7.0 #căn chỉnh kích thước theo thiết bị
+  flutter_svg: ^0.18.0
+  barcode_flutter: ^1.1.0
+  network_image_to_byte: ^0.0.1
+  animated_background: ^1.0.5
+  flutter_slidable: ^0.5.4
+  mockito: ^4.1.1
+  version: ^1.0.3
+  sqflite: ^1.1.0
+  path_provider: ^1.1.0
+  dio: ^3.0.8
+  equatable: ^1.1.1
+  google_fonts: ^1.1.0
+  flushbar: ^1.10.4
+  permission_handler: ^5.0.1
+  file_utils: ^0.1.4
+  flutter_datetime_picker: ^1.3.8
+  open_file: ^3.0.1
+  qr_flutter: ^3.2.0
+  reorderables: ^0.3.2
+  flutter_bloc: ^6.0.5
+  get_it: ^4.0.4
+  flutter_secure_storage: ^3.3.3
+  lottie: ^0.6.0
+  flutter_html: ^1.0.2
+  animations: ^1.1.2
+  get: any
+  camera: 0.5.8+9
+  firebase_ml_vision: 0.9.7
+
+
+  tpos_api_client:
+    path: ../tpos_api_client
+
+  tpos_mobile_localization:
+    path: ../tpos_mobile_localization
+  nam_esc_pos_printer:
+    git:
+      url: https://tfs.tpos.dev/TMT01Collection/TMT%20Flutter%20Gallery/_git/nam_esc_pos_printer
+      ref: v1.4.12
+
+#  nam_esc_pos_printer:
+#      path: ../PACKAGE/nam_esc_pos_printer
+
+#
+#  qr_flutter:
+#      path: ../../PACKAGE/qr_flutter-3.1.0
+
+#  badges:
+#    path: ../../PACKAGE/badges-1.1.0
+
+  tmt_flutter_untils:
+    git:
+      url: https://tfs.tpos.dev/TMT01Collection/TMT%20Flutter%20Gallery/_git/tmt_flutter_utils
+      ref: master
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.8.0
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/tpos_mobile_icon.png"
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/icon/
+    - assets/lottie/
+    - assets/svg/
+    - images/tpos_logo.png
+    - images/no_image.png
+    - images/facebook_play.png
+    - images/tpos_logo_180.png
+    - images/tpos_logo_512.png
+    - images/tpos_mobile_icon.png
+    - images/tpos_logo_512x512.png
+    - images/arrow.png
+    - images/game_title.png
+    - images/game_avatar.jfif
+    - images/game_luckywheel_avatar_white.jpg
+    - images/test_print_image.png
+    - images/testPrinter.png
+    - images/barcode_scan.svg
+    - images/avatar_50x.png
+    - images/star_stroke.png
+    - images/ballon.png
+    - images/vnpost_logo.png
+    - images/viettelpost_logo.png
+    - images/giaohangnhanh_logo.png
+    - images/giaohangtietkiem_logo.png
+    - images/fixed_price.jpg
+    - images/tintoc_logo.jpg
+    - images/jt_logo.jpg
+    - images/supership_logo.png
+    - images/empty_state.flr
+    - images/delivery-truck.svg
+    - images/factory.png
+    - images/customer.png
+    - images/customer_group.svg
+    - images/receipt.svg
+    - images/settings.svg
+    - images/order_bill.png
+    - images/export.png
+    - images/import.png
+    - images/return.svg
+    - images/product.svg
+    - images/add_order.svg
+    - images/omi_channel.png
+    - images/pos.svg
+    - images/moving.svg
+    - images/delivery-truck-1.svg
+    - images/cart.png
+    - images/okiela_logo.png
+    - images/scan_barcode.png
+    - images/ic_tax.png
+    - images/ic_percent.png
+    - images/fulltimeship_logo.jpg
+    - images/bestshipper_logo.png
+    - images/flash_ship_logo.jpg
+    - images/dhl_express_logo.jpg
+    - images/salary.svg
+    - images/invoice.svg
+    - images/ic_invoice.png
+    - images/quotation.svg
+    - images/type_payment.svg
+    - images/ic_zalo.png
+    - images/ic_map.png
+    - images/intro_slide_1.png
+    - images/intro_slide_2.png
+    - images/intro_slide_3.png
+    - images/group_slide_1.png
+    - images/group_slide_2.png
+    - images/group_slide_3.png
+    - assets/icon/menu_ic_channel.svg
+    - assets/icon/menu_ic_mail_template.svg
+    - assets/icon/menu_ic_partner_group.svg
+    - assets/icon/menu_ic_payment.svg
+    - assets/icon/menu_ic_quotation.svg
+    - assets/icon/menu_ic_receipt.svg
+    - assets/icon/menu_ic_group_product.svg
+    - assets/icon/menu_ic_product.svg
+    - assets/icon/menu_ic_add_order.svg
+    - assets/icon/ic_cart.svg
+    - assets/icon/ic_invoice.svg
+    - assets/icon/ic_save_money.svg
+    - assets/icon/ic_tag.svg
+    - assets/icon/ic_count.svg
+    - assets/icon/ic_revenue.svg
+    - assets/icon/ic_bag.svg
+    - assets/icon/ic_product_warning.svg
+    - assets/icon/ic_product_warning_green.svg
+    - assets/icon/background_money.svg
+    - assets/icon/money.svg
+    - assets/icon/card.svg
+    - assets/icon/ic_state.svg
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: UVNVan_B
+      fonts:
+        - asset: fonts/UVNVan_B.TTF
+    - family: times.ttf
+      fonts:
+        - asset: fonts/times.ttf
+        - asset: fonts/timesbd.ttf
+        - asset: fonts/timesbi.ttf
+        - asset: fonts/timesi.ttf
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
+flutter_intl:
+  enabled: false
