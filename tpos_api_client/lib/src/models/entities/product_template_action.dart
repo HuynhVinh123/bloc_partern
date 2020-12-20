@@ -1,0 +1,8 @@
+enum ProductTemplateAction{
+  EDIT_STOCK_MOVE,
+  PRINT_BARCODE,
+  STOP_ACTIVE,
+  ACTIVE,
+  ATTRIBUTE_PRICE,
+  DELETE
+}

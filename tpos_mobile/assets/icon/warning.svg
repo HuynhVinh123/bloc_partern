@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.371" height="16.427" viewBox="0 0 16.371 16.427">
+<!--    <defs>-->
+<!--        <style>.a{fill:none;}.b{fill:#f3a72e;}</style>-->
+<!--    </defs>-->
+    <rect class="a" width="16" height="16" transform="translate(0.245)" fill="none"/>
+    <g transform="translate(0 -13.759)">
+        <g transform="translate(0 14.759)">
+            <path class="b"
+                fill="#f3a72e"
+                d="M16.031,26.563,10.248,15.933a2.4,2.4,0,0,0-4.124,0L.341,26.563A2.4,2.4,0,0,0,2.4,30.186H13.968A2.4,2.4,0,0,0,16.031,26.563Zm-7.845,1.7a.959.959,0,1,1,.959-.959A.96.96,0,0,1,8.185,28.267Zm.959-3.837a.959.959,0,0,1-1.918,0v-4.8a.959.959,0,0,1,1.918,0Z"
+                transform="translate(0 -14.759)" />
+        </g>
+    </g>
+</svg>

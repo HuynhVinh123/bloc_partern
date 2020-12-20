@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="89" viewBox="0 0 147 89">
+    <!--    <defs>-->
+    <!--        <style>-->
+    <!--            .a{fill:#f8f9fb;}.b{clip-path:url(#a);}.c{fill:#c0c6d0;}.d{fill:#e9edf2;}.e,.f{fill:#cdd3db;}.e,.h,.i{fill-rule:evenodd;}.g{fill:#bac1cb;}.h{fill:#dfe5eb;}.i{fill:#a7b2bf;}-->
+    <!--        </style>-->
+    <!--        <clipPath id="a">-->
+    <!--            <rect class="a" width="147" height="89" transform="translate(251 80)" />-->
+    <!--        </clipPath>-->
+    <!--    </defs>-->
+    <g class="b" transform="translate(-251 -80)">
+        <g transform="translate(-15 -99)">
+            <g transform="translate(-143.537 142.811)">
+                <rect class="c" width="6.279" height="75.419" rx="0.379" fill="#c0c6d0"
+                    transform="translate(461.23 64.189)" />
+                <path class="c" fill="#c0c6d0"
+                    d="M.379,0H5.9a.38.38,0,0,1,.38.38V75.04a.379.379,0,0,1-.379.379H.379A.379.379,0,0,1,0,75.04V.379A.379.379,0,0,1,.379,0Z"
+                    transform="translate(537.939 64.189)" />
+                <rect class="d" width="20.988" height="18.817" fill="#e9edf2"
+                    transform="translate(469.889 108.843)" />
+                <path class="e" fill="#cdd3db" d="M405.827,70.78a2.719,2.719,0,0,1-5.439,0Z"
+                    transform="translate(77.276 38.063)" />
+                <rect class="f" fill="#cdd3db" width="1.084" height="18.817"
+                    transform="translate(490.878 108.843)" />
+                <rect class="d" width="20.99" height="18.817" fill="#e9edf2"
+                    transform="translate(491.962 108.843)" />
+                <path class="e" fill="#cdd3db" d="M416.938,70.78a2.718,2.718,0,1,1-5.437,0Z"
+                    transform="translate(88.238 38.063)" />
+                <rect class="f" fill="#cdd3db" width="1.084" height="18.817"
+                    transform="translate(512.952 108.843)" />
+                <rect class="d" width="20.99" height="18.817" fill="#e9edf2"
+                    transform="translate(514.037 108.843)" />
+                <path class="e" fill="#cdd3db" d="M428.054,70.78a2.72,2.72,0,0,1-5.44,0Z"
+                    transform="translate(99.198 38.063)" />
+                <rect class="f" fill="#cdd3db" width="1.036" height="18.817"
+                    transform="translate(524.931 80.731)" />
+                <rect class="d" width="10.459" height="18.817" fill="#e9edf2"
+                    transform="translate(525.966 80.731)" />
+                <rect class="f" fill="#cdd3db" width="1.036" height="18.817"
+                    transform="translate(513.435 80.731)" />
+                <rect class="d" width="10.459" height="18.817" fill="#e9edf2"
+                    transform="translate(514.471 80.731)" />
+                <rect class="f" fill="#cdd3db" width="1.038" height="18.817"
+                    transform="translate(501.938 80.731)" />
+                <rect class="d" width="10.459" height="18.817" fill="#e9edf2"
+                    transform="translate(502.976 80.731)" />
+                <rect class="d" width="21.953" height="8.212" fill="#e9edf2"
+                    transform="translate(479.986 91.336)" />
+                <rect class="f" fill="#cdd3db" width="1.038" height="18.817"
+                    transform="translate(478.948 80.731)" />
+                <rect class="d" width="10.459" height="18.817" fill="#e9edf2"
+                    transform="translate(468.489 80.731)" />
+                <g transform="translate(466.332 42.182)">
+                    <rect class="g" fill="#bac1cb" width="70.348" height="5.966"
+                        transform="translate(1.161 29.264)" />
+                    <rect class="g" fill="#bac1cb" width="70.348" height="5.966"
+                        transform="translate(1.161 57.366)" />
+                    <rect class="g" fill="#bac1cb" width="70.928" height="5.966"
+                        transform="translate(1.177 85.478)" />
+                    <path class="e" fill="#cdd3db"
+                        d="M394.683,73.805h7.111V72.643h-5.949V66.678h1.678V65.516h-2.84Z"
+                        transform="translate(-394.683 -9.311)" />
+                    <path class="e" fill="#cdd3db"
+                        d="M394.69,87.956H401.8V86.8h-5.951V80.829h1.68v-1.16H394.69Z"
+                        transform="translate(-394.676 4.649)" />
+                    <path class="e" fill="#cdd3db"
+                        d="M394.683,59.657h7.111V58.495h-5.949V52.53h1.678V51.368h-2.84Z"
+                        transform="translate(-394.683 -23.265)" />
+                    <path class="e" fill="#cdd3db"
+                        d="M434.8,73.805h-7.113V72.643h5.951V66.678h-1.68V65.516H434.8Z"
+                        transform="translate(-362.129 -9.311)" />
+                    <path class="e" fill="#cdd3db"
+                        d="M434.791,87.956H427.68V86.8h5.951V80.829h-1.682v-1.16h2.842Z"
+                        transform="translate(-362.137 4.649)" />
+                    <path class="e" fill="#cdd3db"
+                        d="M434.8,59.657h-7.113V58.495h5.951V52.53h-1.68V51.368H434.8Z"
+                        transform="translate(-362.129 -23.265)" />
+                </g>
+                <rect class="f" fill="#cdd3db" width="21.953" height="1.038"
+                    transform="translate(479.986 90.298)" />
+                <rect class="d" width="21.953" height="8.212" fill="#e9edf2"
+                    transform="translate(479.986 82.087)" />
+                <g transform="translate(476.017 53.271)">
+                    <g transform="translate(37.287 4.183)">
+                        <rect class="d" width="15.606" height="13.991" fill="#e9edf2"
+                            transform="translate(0.204 0.001)" />
+                        <rect class="d" width="16.015" height="2.33" fill="#e9edf2" />
+                        <path class="h" fill="#dfe5eb"
+                            d="M434.038,57.743H428.18l-9.747-11.661h15.606Z"
+                            transform="translate(-418.229 -43.751)" />
+                        <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                            d="M426.466,44.909h-1.715v3.22l.37-.173.334.16.464-.274.547.286Z"
+                            transform="translate(-411.997 -44.908)" />
+                        <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                            d="M420.824,44.909h-1.717v3.22l.37-.173.336.16.462-.274.549.286Z"
+                            transform="translate(-417.564 -44.908)" />
+                    </g>
+                    <g transform="translate(21.066 4.183)">
+                        <rect class="d" width="15.605" height="13.991" fill="#e9edf2"
+                            transform="translate(0.204 0.001)" />
+                        <rect class="d" width="16.015" height="2.33" fill="#e9edf2" />
+                        <path class="h" fill="#dfe5eb"
+                            d="M425.872,57.743h-5.858l-9.747-11.661h15.605Z"
+                            transform="translate(-410.063 -43.751)" />
+                        <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                            d="M418.3,44.909h-1.715v3.22l.37-.173.334.16.464-.274.547.286Z"
+                            transform="translate(-403.831 -44.908)" />
+                        <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                            d="M412.656,44.909h-1.715v3.22l.371-.173.334.16.464-.274.547.286Z"
+                            transform="translate(-409.397 -44.908)" />
+                    </g>
+                    <rect class="d" width="20.271" height="18.173" fill="#e9edf2"
+                        transform="translate(0.266 0.002)" />
+                    <rect class="d" width="20.802" height="3.027" fill="#e9edf2" />
+                    <path class="h" fill="#dfe5eb" d="M419.963,59.474h-7.612L399.692,44.327h20.271Z"
+                        transform="translate(-399.427 -41.299)" />
+                    <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                        d="M410.126,42.8H407.9v4.182l.479-.224.437.209.6-.355.71.37Z"
+                        transform="translate(-391.332 -42.802)" />
+                    <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                        d="M402.8,42.8h-2.227v4.182l.479-.224.435.209.6-.355.71.37Z"
+                        transform="translate(-398.562 -42.802)" />
+                </g>
+            </g>
+            <g transform="translate(-116.545 180.828)">
+                <g transform="translate(387.769 71.172)">
+                    <rect class="d" width="28.113" height="25.207" fill="#e9edf2"
+                        transform="translate(0.371 0.001)" />
+                    <rect class="d" width="28.856" height="4.198" fill="#e9edf2" />
+                    <path class="h" fill="#dfe5eb" d="M397.4,93.707H386.846L369.287,72.7H397.4Z"
+                        transform="translate(-368.916 -68.498)" />
+                    <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                        d="M380.583,71.173h-3.089v5.8l.665-.311.605.288.834-.492.985.515Z"
+                        transform="translate(-354.512 -71.172)" />
+                    <path class="i" fill="#a7b2bf" fill-rule="evenodd"
+                        d="M373.253,71.173h-3.089v5.8l.665-.311.6.288.837-.492.985.515Z"
+                        transform="translate(-367.376 -71.172)" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

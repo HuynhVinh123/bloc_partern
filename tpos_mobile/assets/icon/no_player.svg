@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153.655" height="97.856">
+
+    <g transform="translate(0 10.399)" opacity=".6">
+        <path d="M798.916 547.363s48.315-84.085 102.506 0" transform="translate(-798.916 -466.3)"
+            fill="url(#a)" />
+        <ellipse cx="24.5" cy="25" rx="24.5" ry="25" transform="translate(27.154 -.399)"
+            opacity=".9" fill="#fff" />
+    </g>
+    <g transform="translate(32.837 .181)">
+        <path d="M798.916 557.449s56.946-106.778 120.818 0" transform="translate(-798.916 -459.774)"
+            fill="url(#b)" />
+        <ellipse cx="28" cy="28.5" rx="28" ry="28.5" transform="translate(32.317 -.181)"
+            fill="#fff" />
+    </g>
+    <linearGradient id="a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#fff" />
+        <stop offset=".177" stop-color="#fff" stop-opacity=".525" />
+        <stop offset="1" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="b" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#fff" />
+        <stop offset=".31" stop-color="#fff" stop-opacity=".698" />
+        <stop offset="1" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+</svg>
