@@ -1,16 +1,14 @@
 package com.whelksoft.camera_with_rtmp
 
 import android.content.Context
-import android.hardware.camera2.CameraCharacteristics
-import android.media.ImageReader
+import android.content.res.Resources
+import android.graphics.BitmapFactory
 import android.media.MediaCodec
 import android.media.MediaFormat
 import android.os.Build
-import android.util.Size
-import android.view.MotionEvent
+import android.util.Log
+import android.util.SparseIntArray
 import android.view.Surface
-import android.view.SurfaceView
-import android.view.TextureView
 import androidx.annotation.RequiresApi
 import com.pedro.encoder.Frame
 import com.pedro.encoder.audio.AudioEncoder
@@ -18,25 +16,19 @@ import com.pedro.encoder.audio.GetAacData
 import com.pedro.encoder.input.audio.CustomAudioEffect
 import com.pedro.encoder.input.audio.GetMicrophoneData
 import com.pedro.encoder.input.audio.MicrophoneManager
-import com.pedro.encoder.input.video.CameraHelper
-import com.pedro.encoder.input.video.CameraHelper.Facing
-import com.pedro.encoder.input.video.CameraOpenException
+import com.pedro.encoder.input.gl.SpriteGestureController
+import com.pedro.encoder.input.gl.render.filters.`object`.ImageObjectFilterRender
 import com.pedro.encoder.utils.CodecUtil.Force
+import com.pedro.encoder.utils.gl.TranslateTo
 import com.pedro.encoder.video.FormatVideoEncoder
 import com.pedro.encoder.video.GetVideoData
 import com.pedro.rtplibrary.util.FpsListener
 import com.pedro.rtplibrary.util.RecordController
-import com.pedro.rtplibrary.view.GlInterface
-import com.pedro.rtplibrary.view.LightOpenGlView
 import com.pedro.rtplibrary.view.OffScreenGlThread
-import com.pedro.rtplibrary.view.OpenGlView
 import net.ossrs.rtmp.ConnectCheckerRtmp
 import net.ossrs.rtmp.SrsFlvMuxer
-import java.io.IOException
 import java.nio.ByteBuffer
 import java.util.*
-import android.util.Log
-import android.util.SparseIntArray
 
 
 @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
@@ -53,7 +45,7 @@ class RtmpCameraConnector(val context: Context, val useOpenGL: Boolean, val isPo
     private var curFps: Int
     private var pausedStreaming: Boolean = false
     private var pausedRecording: Boolean = false
-    private val glInterface: OffScreenGlThread = OffScreenGlThread(context)
+    val glInterface: OffScreenGlThread = OffScreenGlThread(context)
     private var recordController: RecordController = RecordController()
 
 
@@ -124,9 +116,14 @@ class RtmpCameraConnector(val context: Context, val useOpenGL: Boolean, val isPo
     }
 
 
+    val getGlInterface : OffScreenGlThread
+        get (){return glInterface}
+
+
     val inputSurface: Surface
         get() {
             if (useOpenGL) {
+//                setImageToStream()
                 return glInterface.getSurface()
             } else {
                 return videoEncoder!!.surface!!

@@ -192,12 +192,12 @@ class _MyHomePageState extends State<MyHomePage> {
               livestream1 =
                   FacebookLivestream.fromJson(jsonDecode(response1.data));
 
-              controller.startVideoRecordingAndStreaming(
-                  filePath, livestream.secureStreamUrl);
+              // controller.startVideoRecordingAndStreaming(
+              //     filePath, livestream.secureStreamUrl);
 
               /// Tạo stream video
-              // controller.startVideoStreaming(livestream.secureStreamUrl,
-              //     [livestream.secureStreamUrl, livestream1.secureStreamUrl]);
+              controller.startVideoStreaming(livestream.secureStreamUrl,
+                  [livestream.secureStreamUrl, livestream1.secureStreamUrl]);
 
             } catch (e) {
               print(e.toString());

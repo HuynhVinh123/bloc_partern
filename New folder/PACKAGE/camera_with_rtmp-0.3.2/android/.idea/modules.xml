@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera_with_rtmp.iml" filepath="$PROJECT_DIR$/.idea/modules/camera_with_rtmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.whelksoft.camera_with_rtmp-camera_with_rtmp.iml" filepath="$PROJECT_DIR$/.idea/modules/com.whelksoft.camera_with_rtmp-camera_with_rtmp.iml" group="camera_with_rtmp" />
     </modules>
   </component>
 </project>

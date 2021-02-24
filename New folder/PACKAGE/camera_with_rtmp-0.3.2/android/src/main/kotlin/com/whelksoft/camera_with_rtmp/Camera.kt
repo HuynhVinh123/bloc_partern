@@ -3,6 +3,9 @@ package com.whelksoft.camera_with_rtmp
 import android.annotation.SuppressLint
 import android.app.Activity
 import android.content.Context
+import android.content.res.Resources
+import android.graphics.BitmapFactory
+import android.graphics.Color
 import android.graphics.ImageFormat
 import android.graphics.Point
 import android.hardware.camera2.*
@@ -12,11 +15,13 @@ import android.media.ImageReader
 import android.os.Build
 import android.util.Log
 import android.util.Size
-import android.util.SparseIntArray
 import android.view.OrientationEventListener
 import android.view.Surface
-import android.view.WindowManager
 import androidx.annotation.RequiresApi
+import com.pedro.encoder.input.gl.SpriteGestureController
+import com.pedro.encoder.input.gl.render.filters.`object`.ImageObjectFilterRender
+import com.pedro.encoder.input.gl.render.filters.`object`.TextObjectFilterRender
+import com.pedro.encoder.utils.gl.TranslateTo
 import com.pedro.rtplibrary.util.BitrateAdapter
 import io.flutter.plugin.common.EventChannel
 import io.flutter.plugin.common.EventChannel.EventSink
@@ -58,6 +63,7 @@ class Camera(
     private val maxRetries = 3
     private var currentRetries = 0
     private var publishUrl: String? = null
+    private val spriteGestureController = SpriteGestureController()
 
     // Mirrors camera.dart
     enum class ResolutionPreset {
@@ -97,6 +103,29 @@ class Camera(
                 bitrateToUse,
                 !useOpenGL,
                 mediaOrientation)
+        setTextToStream()
+    }
+
+    private fun setTextToStream() {
+        val textObjectFilterRender = TextObjectFilterRender()
+        rtmpCamera!!.getGlInterface.setFilter(textObjectFilterRender)
+        textObjectFilterRender.setText("Hello world", 22f, Color.RED)
+        textObjectFilterRender.setDefaultScale(100,
+              100)
+        textObjectFilterRender.setPosition(TranslateTo.CENTER)
+        spriteGestureController.setBaseObjectFilterRender(textObjectFilterRender) //Optional
+    }
+
+
+    private fun setImageToStream() {
+        val imageObjectFilterRender = ImageObjectFilterRender()
+        rtmpCamera!!.getGlInterface.setFilter(imageObjectFilterRender)
+        imageObjectFilterRender.setImage(
+                BitmapFactory.decodeResource(Resources.getSystem(),R.drawable.bg_chroma))
+        imageObjectFilterRender.setDefaultScale(120, 120)
+        imageObjectFilterRender.setPosition(TranslateTo.RIGHT)
+        spriteGestureController.setBaseObjectFilterRender(imageObjectFilterRender) //Optional
+        spriteGestureController.setPreventMoveOutside(false) //Optional
     }
 
 
@@ -555,13 +584,15 @@ class Camera(
                 // Start capturing from the camera.  /// Cấu hình tạo phiên chụp camera
                 createCaptureSession(
                         CameraDevice.TEMPLATE_RECORD,
-                        Runnable { rtmpCamera!!.startMultiStream(urls) },
+                        Runnable { rtmpCamera!!.startMultiStream(urls)
+                        },
                         rtmpCamera!!.inputSurface
                 )
             } else {
                 rtmpCamera!!.startMultiStream(urls)
             }
-            result.success(null)
+
+//            result.success(null)
         } catch (e: CameraAccessException) {
             result.error("videoStreamingFailed", e.message, null)
         } catch (e: IOException) {
