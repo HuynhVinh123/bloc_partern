@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+    <defs>
+<!--        <style>-->
+<!--            .a{fill:url(#a);}-->
+<!--            .b{fill:#fff;}-->
+<!--    </style>-->
+    <linearGradient id="a" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#3deb66"/>
+    <stop offset="1" stop-color="#28a745"/>
+</linearGradient>
+</defs>
+    <g transform="translate(219.772 -0.228)">
+    <rect class="a" width="17" height="17" rx="5" transform="translate(-219.772 0.228)" fill="url(#a)"/>
+    <path class="b" d="M8.028,0H.963A.963.963,0,0,0,0,.965V6.1a.963.963,0,0,0,.963.963H2.1l-.175,1.57a.321.321,0,0,0,.534.274L4.512,7.067H8.028A.963.963,0,0,0,8.992,6.1V.965A.963.963,0,0,0,8.028,0Z" transform="translate(-215.544 5.275)" fill="#fff"/>
+    </g>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="89" viewBox="0 0 147 89">
+<!--    <defs>-->
+<!--        <style>-->
+<!--            .a{fill:#f8f9fb;}.b{clip-path:url(#a);}.c{fill:#e9edf2;}.d,.f{fill:#cdd3db;}.d,.e{fill-rule:evenodd;}.e{fill:#a7b2bf;}.g{fill:#f5f7f8;}.h{fill:#c0c6d0;}-->
+<!--        </style>-->
+<!--        <clipPath id="a">-->
+<!--            <rect class="a" width="147" height="89" transform="translate(251 80)" />-->
+<!--        </clipPath>-->
+<!--    </defs>-->
+    <g class="b" transform="translate(-251 -80)" >
+        <g transform="translate(93.512 -0.532)">
+            <g transform="translate(158.841 125.55)">
+                <g transform="translate(0)">
+                    <rect class="c" fill='#e9edf2' width="49.614" height="44.483" transform="translate(0.651)" />
+                    <rect class="c" fill='#e9edf2' width="50.919" height="7.407" transform="translate(0)" />
+                    <path class="d" fill='#cdd3db' d="M106.043,115.084H87.414L56.429,78.01h49.614Z"
+                        transform="translate(-55.778 -70.601)" />
+                    <path class="e" fill-rule='evenodd' fill='#a7b2bf'
+                        d="M70.771,76.359H65.317V86.6L66.5,86.05l1.061.506,1.473-.868,1.74.91Z"
+                        transform="translate(-24.767 -76.359)" />
+                    <path class="e" fill-rule='evenodd' fill='#a7b2bf'
+                        d="M62.832,76.359H57.378V86.6l1.177-.548,1.063.506,1.476-.868,1.738.91Z"
+                        transform="translate(-52.466 -76.359)" />
+                </g>
+            </g>
+            <g transform="translate(208.903 120.909)">
+                <rect class="f" width="42.249" height="49.123" fill='#cdd3db' />
+                <rect class="c" width="21.126" height="49.123" fill='#e9edf2'/>
+                <g transform="translate(3.654)">
+                    <path class="e" fill='#a7b2bf'
+                        d="M68.731,75.326H73.7v9.329l-1.074-.5-.969.462-1.344-.791-1.585.829Z"
+                        transform="translate(-68.731 -75.326)" />
+                    <path class="e" fill='#a7b2bf'
+                        d="M75.408,75.326h4.969v9.329l-1.072-.5-.969.462-1.344-.791-1.585.829Z"
+                        transform="translate(-45.436 -75.326)" />
+                </g>
+                <g transform="translate(43.135 11.242)">
+                    <rect class="f" width="42.249" height="37.881" fill='#cdd3db'/>
+                    <rect class="c" width="21.123" height="37.881" fill='#e9edf2' />
+                    <g transform="translate(3.654)">
+                        <path class="e" fill='#a7b2bf'
+                            d="M78.34,77.83H83.31v9.331l-1.074-.5-.967.462-1.344-.791-1.585.829Z"
+                            transform="translate(-78.34 -77.83)" />
+                        <path class="e" fill='#a7b2bf'
+                            d="M85.017,77.83h4.971v9.331l-1.074-.5-.969.462L86.6,86.332l-1.587.829Z"
+                            transform="translate(-55.046 -77.83)" />
+                    </g>
+                    <rect class="g" width="12" height="5" transform="translate(6.45 30.38)" fill='#f5f7f8' />
+                </g>
+                <rect class="h" width="0.883" height="37.881" fill="#c0c6d0"
+                    transform="translate(42.249 11.242)" />
+                <rect class="h" width="1.964" height="44.363" transform="translate(0.115 4.76)" fill="#c0c6d0"/>
+                <rect class="g" width="12" height="5" transform="translate(6.585 41.623)" fill='#f5f7f8'/>
+            </g>
+        </g>
+    </g>
+</svg>

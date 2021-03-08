@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+<!--    <defs>-->
+<!--        <style>.a{fill:none;}.b{fill:#ffc107;}</style>-->
+<!--    </defs>-->
+    <g transform="translate(-124.245 -1740)">
+        <g transform="translate(124 1740)">
+            <rect class="a" width="22" height="22" transform="translate(0.245)" fill="none"/>
+            <g transform="translate(1.434 1.711)">
+                <g transform="translate(0 0)">
+                    <path class="b"
+                        d="M19.32,28.985,12.35,16.174a2.89,2.89,0,0,0-4.971,0L.41,28.985A2.889,2.889,0,0,0,2.9,33.351H16.834A2.889,2.889,0,0,0,19.32,28.985ZM9.865,31.039a1.156,1.156,0,1,1,1.156-1.156A1.158,1.158,0,0,1,9.865,31.039Zm1.156-4.624a1.156,1.156,0,0,1-2.312,0v-5.78a1.156,1.156,0,1,1,2.312,0Z"
+                        transform="translate(0 -14.759)" fill="#ffc107"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

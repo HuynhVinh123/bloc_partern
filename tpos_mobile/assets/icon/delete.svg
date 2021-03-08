@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <!--    <defs>-->
+    <!--        <style>.a{fill:none;}.b{fill:#eb3b5b;}</style>-->
+    <!--    </defs>-->
+    <rect class="a" width="22" height="22" fill="none" />
+    <g transform="translate(-788.855 -7.266)">
+        <path class="b" fill="#eb3b5b"
+            d="M95.687,92.168l-.409-1.224a.6.6,0,0,0-.573-.413H84.061a.6.6,0,0,0-.573.413l-.409,1.224a.428.428,0,0,0,.406.564h11.8A.428.428,0,0,0,95.687,92.168Z"
+            transform="translate(710.684 -78.767)" />
+        <path class="b" fill="#eb3b5b"
+            d="M102.314,192.069a.832.832,0,0,0,.827.74h7.086a.832.832,0,0,0,.827-.74l1.264-11.379H101.05Z"
+            transform="translate(693.349 -165.628)" />
+        <path class="b" fill="#eb3b5b"
+            d="M196.987,1.573a.476.476,0,0,1,.475-.475h1.616a.476.476,0,0,1,.475.475v.641h1.1V1.573A1.575,1.575,0,0,0,199.079,0h-1.616a1.575,1.575,0,0,0-1.573,1.573v.641h1.1Z"
+            transform="translate(601.978 8.453)" />
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Nam, Công ty TNHH TM& DV Trực Tuyến Trường Minh Thịnh on 4/9/19 9:59 AM
+  ~  * Copyright (c) 2019 . All rights reserved.
+  ~  * Last modified 4/9/19 9:53 AM
+  ~  */
+  -->
+
+<resources>
+    <string name="app_name">Phần mềm bán hàng Tpos</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">327268081110321</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="fb_login_protocol_scheme">fb327268081110321</string>
+    <string name="fb_account_kit_client_token">f4737ad740ac90f3ea6ba5f7b61156ef</string>
+</resources>

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="89" viewBox="0 0 147 89">
+    <!--    <defs>-->
+    <!--        <style>-->
+    <!--            .a{fill:#f8f9fb;}.b{clip-path:url(#a);}.c,.e{fill:#cdd3db;}.d,.i{fill:#e9edf2;}.e,.g,.i,.j,.k,.m{fill-rule:evenodd;}.f,.g{fill:#d9dee5;}.h{fill:#b1b7c1;}.j,.l{fill:#a7b2bf;}.k{fill:#929daa;}.m{fill:#c0c6d0;}-->
+    <!--        </style>-->
+    <!--        <clipPath id="a">-->
+    <!--            <rect class="a" width="147" height="89" transform="translate(251 80)" />-->
+    <!--        </clipPath>-->
+    <!--    </defs>-->
+    <g class="b" transform="translate(-251 -80)">
+        <g transform="translate(16.674 61.106)">
+            <rect class="c" fill="#cdd3db" width="51.741" height="46.387"
+                transform="translate(266.123 49.912)" />
+            <rect class="d" fill="#e9edf2" width="25.871" height="46.387"
+                transform="translate(266.123 49.912)" />
+            <path class="e" fill-rule="evenodd" fill="#cdd3db"
+                d="M263.6,67.684v7.7h-2.8v-7.7h-1.939l1.67-3.063,1.67-3.063,1.669,3.063,1.672,3.063Z"
+                transform="translate(11.211 15.933)" />
+            <path class="e" fill-rule="evenodd" fill="#cdd3db"
+                d="M268.247,67.684v7.7h-2.8v-7.7h-1.94l1.671-3.063,1.67-3.063,1.669,3.063,1.672,3.063Z"
+                transform="translate(14.139 15.933)" />
+            <path class="f" fill="#d9dee5"
+                d="M1,0h99.812a1,1,0,0,1,1,1V7.481a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z"
+                transform="translate(241.085 96.299)" />
+            <path class="g" fill-rule="evenodd" fill="#d9dee5"
+                d="M242.72,109.174H356.54l.041,0h0l.041,0h0l.044,0h0l.039-.007h0l.042,0,.039-.007h0l.039-.008h0l.041-.008h0l.039-.01.039-.011h0l.037-.011.038-.011h0l.039-.015h0l.038-.015.037-.015.036-.016.036-.016.036-.018.034-.018.034-.02h0l.036-.02.033-.021h0l.033-.021.031-.023.034-.023.029-.024.031-.024.029-.026.031-.026.029-.026.026-.028h0l.029-.028.026-.029.026-.029.026-.031.023-.029.024-.031.025-.033h0l.021-.033.023-.033h0l.021-.034.02-.033h0l.02-.036.018-.034.018-.034.016-.037.016-.036h0l.016-.038.013-.037h0l.011-.038h0l.013-.037h0l.013-.039.011-.039.01-.039.008-.039.007-.041h0l.007-.039v0l.006-.041h0l.005-.041h0l0-.041h0l0-.041h0l0-.042h0v-.042h0V47.811h-8.484v52.88H242.72a1.64,1.64,0,0,0-1.635,1.635v5.213A1.64,1.64,0,0,0,242.72,109.174Z"
+                transform="translate(0 7.264)" />
+            <rect class="h" fill="#b1b7c1" width="37.225" height="3.172"
+                transform="translate(273.381 104.783)" />
+            <path class="i" fill-rule="evenodd" fill="#e9edf2"
+                d="M317.314,36.291a18.22,18.22,0,0,1,18.22,18.22h-4.246a13.974,13.974,0,0,0-27.948,0h-4.248A18.22,18.22,0,0,1,317.314,36.291Z"
+                transform="translate(36.578 0)" />
+            <rect class="d" fill="#e9edf2" width="31.172" height="4.033"
+                transform="translate(338.432 50.479)" />
+            <path class="j" fill-rule="evenodd" fill="#a7b2bf"
+                d="M314.5,41.441l-1.159,2.951-1.567,3.992-1.031-.582-1.032-.58,2.6-3.41,1.919-2.521C314.383,41.084,314.6,41.23,314.5,41.441Z"
+                transform="translate(43.273 3.09)" />
+            <path class="k" fill-rule="evenodd" fill="#929daa"
+                d="M311.145,48.171a2.115,2.115,0,1,0-2.113-2.115A2.12,2.12,0,0,0,311.145,48.171Z"
+                transform="translate(42.846 4.824)" />
+            <path class="i" fill-rule="evenodd" fill="#e9edf2"
+                d="M310.877,47.208a1.421,1.421,0,1,0-1.419-1.42A1.422,1.422,0,0,0,310.877,47.208Z"
+                transform="translate(43.114 5.092)" />
+            <g transform="translate(297.201 83.001)">
+                <rect class="d" fill="#e9edf2" width="16.868" height="7.809" />
+                <g transform="translate(0.957 0.567)">
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674" />
+                    <rect class="l" fill="#a7b2bf" width="0.522" height="5.674"
+                        transform="translate(1.049)" />
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674"
+                        transform="translate(4.193)" />
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674"
+                        transform="translate(7.338)" />
+                    <rect class="l" fill="#a7b2bf" width="0.526" height="5.674"
+                        transform="translate(10.077)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(1.819)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(4.964)" />
+                    <rect class="l" fill="#a7b2bf" width="0.261" height="5.674"
+                        transform="translate(8.109)" />
+                    <rect class="l" fill="#a7b2bf" width="0.261" height="5.674"
+                        transform="translate(10.849)" />
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674"
+                        transform="translate(2.696)" />
+                    <rect class="l" fill="#a7b2bf" width="0.525" height="5.674"
+                        transform="translate(5.84)" />
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674"
+                        transform="translate(8.985)" />
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674"
+                        transform="translate(11.725)" />
+                    <rect class="l" fill="#a7b2bf" width="0.261" height="6.674"
+                        transform="translate(2.263 0.001)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(5.406)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(8.551)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(11.292)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(0.669)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(3.814)" />
+                    <rect class="l" fill="#a7b2bf" width="0.261" height="5.674"
+                        transform="translate(6.959)" />
+                    <rect class="l" fill="#a7b2bf" width="0.261" height="5.674"
+                        transform="translate(9.7)" />
+                    <rect class="l" fill="#a7b2bf" width="0.522" height="5.674"
+                        transform="translate(12.782)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(13.553)" />
+                    <rect class="l" fill="#a7b2bf" width="0.524" height="5.674"
+                        transform="translate(14.428)" />
+                    <rect class="l" fill="#a7b2bf" width="0.263" height="5.674"
+                        transform="translate(13.995)" />
+                    <rect class="l" fill="#a7b2bf" width="0.261" height="5.674"
+                        transform="translate(12.403)" />
+                </g>
+            </g>
+            <path class="e" fill-rule="evenodd" fill="#cdd3db"
+                d="M259.437,70.038h12.379l0,1.1H259.439Z" transform="translate(11.573 21.28)" />
+            <g transform="translate(270.599 49.912)">
+                <path class="j" fill-rule="evenodd" fill="#a7b2bf"
+                    d="M259.186,44.644h6.086V56.069l-1.315-.613-1.185.567-1.645-.969-1.941,1.015Z"
+                    transform="translate(-259.186 -44.644)" />
+                <path class="j" fill-rule="evenodd" fill="#a7b2bf"
+                    d="M281.7,44.644h6.085V56.069l-1.314-.613-1.186.567-1.643-.969L281.7,56.069Z"
+                    transform="translate(-244.991 -44.644)" />
+            </g>
+            <path class="m" fill="#c0c6d0" fill-rule="evenodd"
+                d="M242.72,79.937h98.545A1.64,1.64,0,0,0,342.9,78.3V75.694H241.085V78.3A1.64,1.64,0,0,0,242.72,79.937Z"
+                transform="translate(0 24.847)" />
+            <path class="m" fill="#c0c6d0" fill-rule="evenodd"
+                d="M242.72,109.174H356.54l.041,0h0l.041,0h0l.044,0h0l.039-.007h0l.042,0,.039-.007h0l.039-.008h0l.041-.008h0l.039-.01.039-.011h0l.037-.011.038-.011h0l.039-.015h0l.038-.015.037-.015.036-.016.036-.016.036-.018.034-.018.034-.02h0l.036-.02.033-.021h0l.033-.021.031-.023.034-.023.029-.024.031-.024.029-.026.031-.026.029-.026.026-.028h0l.029-.028.026-.029.026-.029.026-.031.023-.029.024-.031.025-.033h0l.021-.033.023-.033h0l.021-.034.02-.033h0l.02-.036.018-.034.018-.034.016-.037.016-.036h0l.016-.038.013-.037h0l.011-.038h0l.013-.037h0l.013-.039.011-.039.01-.039.008-.039.007-.041h0l.007-.039v0l.006-.041h0l.005-.041h0l0-.041h0l0-.041h0l0-.042h0v-.042h0V47.811H353.96v57.122H241.085v2.606A1.64,1.64,0,0,0,242.72,109.174Z"
+                transform="translate(0 7.264)" />
+            <rect class="c" fill="#cdd3db" width="36.432" height="3.193"
+                transform="translate(335.67 54.512)" />
+            <rect class="h" fill="#b1b7c1" width="6.858" height="1.344"
+                transform="translate(245.12 116.439)" />
+            <rect class="h" fill="#b1b7c1" width="6.858" height="1.344"
+                transform="translate(347.279 116.439)" />
+        </g>
+    </g>
+</svg>
