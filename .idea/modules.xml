@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/extended_sliver.iml" filepath="$PROJECT_DIR$/.idea/extended_sliver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_download_media.iml" filepath="$PROJECT_DIR$/flutter_download_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_download_media_android.iml" filepath="$PROJECT_DIR$/android/flutter_download_media_android.iml" />
     </modules>
   </component>
 </project>
