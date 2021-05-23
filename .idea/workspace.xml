@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:vinhht" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="808715f4-c689-4f2c-8222-f225b2d2df93" name="Default Changelist" comment="" />
+    <list default="true" id="808715f4-c689-4f2c-8222-f225b2d2df93" name="Default Changelist" comment="test rebase 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/HuynhVinh123/bloc_partern.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1sAac6W7Bngm5mQn24vZa8yVQbx" />
   <component name="ProjectViewState">
@@ -16,7 +54,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -30,28 +68,70 @@
       <option name="presentableId" value="Default" />
       <updated>1620317923633</updated>
     </task>
+    <task id="LOCAL-00001" summary="test rebase">
+      <created>1621745184563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621745184563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test rebase">
+      <created>1621745233830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621745233830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test rebase 2">
+      <created>1621745320409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621745320409</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test rebase" />
+    <MESSAGE value="test rebase 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test rebase 2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1620319236607">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1621608001480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620319236607" />
-    <state width="1323" height="468" key="GridCell.Tab.0.bottom" timestamp="1620321976313">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621608001480" />
+    <state width="1286" height="194" key="GridCell.Tab.0.bottom" timestamp="1621607905293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="468" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620321976313" />
-    <state width="1323" height="468" key="GridCell.Tab.0.center" timestamp="1620321976313">
+    <state width="1286" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621607905293" />
+    <state width="1286" height="194" key="GridCell.Tab.0.center" timestamp="1621607905293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="468" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620321976313" />
-    <state width="1323" height="468" key="GridCell.Tab.0.left" timestamp="1620321976312">
+    <state width="1286" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621607905293" />
+    <state width="1286" height="194" key="GridCell.Tab.0.left" timestamp="1621607905292">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="468" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620321976312" />
-    <state width="1323" height="468" key="GridCell.Tab.0.right" timestamp="1620321976313">
+    <state width="1286" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621607905292" />
+    <state width="1286" height="194" key="GridCell.Tab.0.right" timestamp="1621607905293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="468" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620321976313" />
+    <state width="1286" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621607905293" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1621745322763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621745322763" />
   </component>
 </project>
