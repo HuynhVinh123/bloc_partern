@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Future _incrementCounter()async {
     String result =
         await defaultPlatform.invokeMethod('getDeviceInfoString', {
-      "type": "MODEL ffa toi là toi",
+      "type": "MODEL ffa toi là toi laf toi",
     });
   }
 
