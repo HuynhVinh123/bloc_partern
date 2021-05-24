@@ -28,13 +28,14 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:vinhht" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/vinhht/task_git_push" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/vinhht/clone_branch_5" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="808715f4-c689-4f2c-8222-f225b2d2df93" name="Default Changelist" comment="clone rebase 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +135,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test rebase 2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="130" y="56" key="DiffContextDialog" timestamp="1621871340395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="130" y="56" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1621871340395" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1621608001480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -154,9 +159,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621607905293" />
+    <state x="437" y="67" key="RollbackChangesDialog" timestamp="1621871341885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="67" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1621871341885" />
     <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1621745322763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621745322763" />
+    <state x="453" y="77" key="git4idea.branch.GitSmartOperationDialog" timestamp="1621871344680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="77" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1621871344680" />
   </component>
 </project>
