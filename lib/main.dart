@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Fluttedr d dsfs sà flesjDemo Home Page'),
+      home: MyHomePage(title: 'Fluttedr d dsfslesjDemo Home Page'),
     );
   }
 }
